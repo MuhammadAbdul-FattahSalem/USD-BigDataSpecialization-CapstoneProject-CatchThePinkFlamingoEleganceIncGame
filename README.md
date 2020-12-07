@@ -2,6 +2,7 @@
 Coursera-USD-Capstone Project| How To Increase Revenue Exploring 'Catch The Pink Flamingo' Inc. Game Data
 ## To download the predefined datasets and the scripts needed to fulfill the Capstone Project, click the following link:
 https://d3c33hcgiwev3.cloudfront.net/_de5ad40e9a4965ee4b6aad31eea4ac7a_big_data_capstone_datasets_and_scripts.zip?Expires=1607472000&Signature=aXBEau14A4rpy~P4ClaA-W6xjlRcFk6zH4NhSkU0a-b8mGwpvdAUMWAeOhV6mpWokYp65ycUd353eBXhC0KrvYZwwJN2tC1tLKwNFcWAWUZ6bLwopvXFYm4gUv5OEtC9qCf-N8vUU1EHbBLOwUkMWytaQQxYyPDIJpLBEa2~wT8_&Key-Pair-Id=APKAJLTNE6QMUY6HBC5A
+
 Description of Downloaded Content
 The above zip archive contains the following archives and scripts. 
 
